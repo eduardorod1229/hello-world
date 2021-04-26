@@ -105,7 +105,7 @@ svyset townid [pweight=r_weights], fpc(fpc) strata(r_edstrat)
 svy: mean r_health
 svy: regress r_health ib3.r_edcat, baselevel
 
-
+/*** Extra edit ***/
 
 
 
